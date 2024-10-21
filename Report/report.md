@@ -5,8 +5,7 @@
 
 **Motivasi**
 
-  Analisis inflasi di tingkat provinsi di Indonesia sangat penting karena memberikan gambaran mendalam mengenai kondisi ekonomi yang bervariasi di seluruh wilayah. Alasan pentingnya analisis ini antara lain:
-Setiap provinsi memiliki kebijakan ekonomi yang berbeda, seperti insentif pajak atau subsidi, yang memengaruhi harga barang dan jasa di wilayah tersebut. Mengetahui variasi inflasi antarprovinsi dapat membantu pemerintah daerah merancang kebijakan yang lebih efektif untuk menjaga stabilitas harga.
+  Analisis inflasi di tingkat provinsi di Indonesia sangat penting karena memberikan gambaran mendalam mengenai kondisi ekonomi yang bervariasi di seluruh wilayah. Alasan pentingnya analisis ini antara lain, setiap provinsi memiliki kebijakan ekonomi yang berbeda, seperti insentif pajak atau subsidi, yang memengaruhi harga barang dan jasa di wilayah tersebut. Mengetahui variasi inflasi antarprovinsi dapat membantu pemerintah daerah merancang kebijakan yang lebih efektif untuk menjaga stabilitas harga.
 Provinsi dengan sektor industri atau sumber daya alam yang dominan mungkin mengalami pola inflasi yang berbeda dibandingkan provinsi yang mengandalkan sektor pertanian. Analisis inflasi dapat memberikan pemahaman mengenai bagaimana pengelolaan sumber daya lokal memengaruhi inflasi.
   Mengetahui adanya perbedaan inflasi antarprovinsi membantu pemerintah pusat merancang kebijakan ekonomi nasional yang memperhitungkan disparitas antarwilayah, sehingga kebijakan tersebut dapat lebih tepat sasaran.
 Analisis inflasi provinsi dapat membantu mengidentifikasi anomali atau ketidakwajaran dalam perekonomian daerah, seperti masalah pasokan atau gangguan pasar, yang mungkin memengaruhi harga secara tidak normal.
