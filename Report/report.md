@@ -41,8 +41,14 @@ Dengan melakukan analisis inflasi di tingkat provinsi, kita bisa lebih memahami 
 
   Hasil setelah dilakukan compare nilai rata-rata inflasi provinsi dan inflasi Indonesia.
 
-![image](https://github.com/user-attachments/assets/e79a360c-8baf-4258-903c-9d78dbedef2f)
+![image](https://github.com/user-attachments/assets/10816583-aa6e-4c44-aa42-19cdac79cdf8)
 
+  Hasil setelah dilakukan perbandingan selisih absolute dari rata-rata inflasi provinsi dan inflasi Indonesia pada setiap bulannya.
+![image](https://github.com/user-attachments/assets/de94d361-1dc9-4bb7-b696-4294253446b8)
+
+Berikut table perbandingan selisih absolute, investigate discrepancies, serta identifikasi anomali pada inflasi bulanan.
+
+![image](https://github.com/user-attachments/assets/e79a360c-8baf-4258-903c-9d78dbedef2f)
 Dari hasil di atas kita bisa melihat bahwa : 
 - pada bulan januari selisih inflasi provinsi dengan Indonesia cukup tinggi, sekitar 0.3. Ini menunjukkan bahwa inflasi di tingkat provinsi pada bulan ini berbeda secara signifikan dari rata-rata Indonesia.
 - Pada bulan februari terjadi penurunan selisih inflasi, dengan selisih absolut sekitar 0.15. Perbedaan inflasi provinsi dibandingkan Indonesia tidak terlalu besar dibandingkan bulan sebelumnya.
@@ -51,7 +57,6 @@ Dari hasil di atas kita bisa melihat bahwa :
 - Pada bulan Mei dan Juni pada bulan-bulan ini, selisih inflasi mencapai puncak kembali sekitar 0.3. Ini menunjukkan adanya variasi besar antara inflasi provinsi dan Indonesia pada bulan-bulan ini.
 - Pada bulan Juli dan Agustus selisih inflasi menurun kembali, dengan selisih di sekitar 0.1 hingga 0.15, yang menunjukkan tingkat inflasi yang lebih seragam antara provinsi dan Indonesia.
 
-  Hasil setelah dilakukan perbandingan selisih absolute dari rata-rata inflasi provinsi dan inflasi Indonesia pada setiap bulannya.
 
 ![image](https://github.com/user-attachments/assets/2d7aea45-d255-4659-afae-2f06f4966de2)
 
@@ -61,13 +66,6 @@ Garis Biru (Rata - Rata Provinsi ) : Inflasi provinsi terlihat bervariasi setiap
 Garis Orange (Inflasi Indonesia) :  Inflasi Indonesia juga memiliki pola serupa dengan rata-rata provinsi, tetapi secara keseluruhan berada sedikit di bawah garis biru, menunjukkan bahwa inflasi Indonesia cenderung lebih rendah dari rata-rata inflasi provinsi.
 
 Selisih Absolut (Bar Abu - Abu) : Selisih tertinggi terjadi di bulan Januari, Mei, dan Juni, yang berarti inflasi provinsi lebih berbeda dibandingkan inflasi Indonesia pada bulan-bulan ini. Sebaliknya, di bulan-bulan seperti Maret, selisihnya kecil, menunjukkan inflasi provinsi lebih mendekati inflasi Indonesia.
-
-
-Berikut table perbandingan selisih absolute, investigate discrepancies, serta identifikasi anomali pada inflasi bulanan.
-
-![image](https://github.com/user-attachments/assets/efc4e153-56f8-4793-8960-e7671b57256b)
-
-![image](https://github.com/user-attachments/assets/02513ada-8f28-4fbc-aaf8-671a455667e5)
 
 ![image](https://github.com/user-attachments/assets/49c92efc-8166-46b1-8d05-586798f1132e)
 
